@@ -187,7 +187,7 @@ Useful for seeing geometry relationships. Points at same x-coordinate have ident
 - How much of the measurement variance is stylus vs test record condition vs setup repeatability
 - What the "acceptable" distortion threshold is for audibility
 - Whether the SRA error is a significant confound
-- Identify spurious inputs or other confounds such as temperature, humidity, seismic, setup. 
+- Identify spurious inputs or other confounds such as temperature, humidity, seismic, setup 
 
 ---
 
