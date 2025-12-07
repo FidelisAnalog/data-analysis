@@ -101,7 +101,7 @@ def plot_comparison(dfs, hours_list, minor_radius, freqs, channel, output_file):
         ax.set_xlabel('Minor Radius (mils)')
         ax.set_ylabel('Distortion (dB)')
         ax.set_title(f'{freq} Hz')
-        ax.legend(loc='upper right', fontsize=9)
+        ax.legend(loc='upper left', fontsize=9)
         ax.grid(True, alpha=0.3)
         ax.set_ylim(-60, -20)
     
